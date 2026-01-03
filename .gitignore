@@ -1,0 +1,22 @@
+# 环境变量和敏感信息
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 日志文件
+*.log
+
+# 临时文件和输出
+*_raw.txt
+*_summary.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
